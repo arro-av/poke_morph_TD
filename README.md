@@ -16,7 +16,7 @@
 
 ---
 
-4. Make sure to start the LFO is actually running when opening the TD file
+4. Make sure the LFO is actually running when opening the TD file
 
 <img width="600" alt="grafik" src="https://github.com/user-attachments/assets/220a90f6-a97d-443e-af8c-cdb20fffec29" />
 
