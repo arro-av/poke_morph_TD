@@ -37,7 +37,7 @@ def stop_n_swap():
     run("op('lfo1').par.play = 1", delayFrames=delay)
     
     moviefile_to_update = "moviefilein1" if counter % 2 == 0 else "moviefilein2"
-    new_pokemon = rf"{path}\pokemon ({counter}).png"
+    new_pokemon = rf"{path}\img ({counter}).png"
     
     op(moviefile_to_update).par.file = new_pokemon
     
