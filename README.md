@@ -1,5 +1,6 @@
 ### QuickGuide
-1. To loop through a specific folder of images make sure to set the path variable correctly in the Python script (Line 1)
+1. To loop through a specific folder of images make sure to set the path variable correctly in the Python script
+→ Line 1
 
 <img width="600" alt="grafik" src="https://github.com/user-attachments/assets/88a5f1bb-f21d-4b15-b53f-32360b0164ec" />
 
