@@ -1,22 +1,35 @@
-### QuickGuide
-1. To loop through a specific folder of images make sure to set the path variable correctly in the Python script
-→ Line 1
+## .TOX Doc
 
-<img width="600" alt="grafik" src="https://github.com/user-attachments/assets/88a5f1bb-f21d-4b15-b53f-32360b0164ec" />
+### Images Tab
+<img width="250" alt="grafik" src="https://github.com/user-attachments/assets/f4e604c8-f6e8-4da4-85b0-2c0e04cf56f7" />
+
+**Play** | starts the morph oscillation between images
+
+**Folder** | specify the folder containing your images
+
+**Quantity** | specify quantity of your images
+
+**Resolution** | set image resolution
+
+**Scale** | scale your images
+
+**Input Switch** | if the image-switch is not synced with the morph animation → press "s" key
+
+**!IMPORTANT** | name the images in the folder as shown below (on windows just select all & rename to "img")
+<img width="500" alt="grafik" src="https://github.com/user-attachments/assets/60d820a1-5922-49b4-8994-48e0ff24c178" />
+
+works best with PNGs but feel free to experiment
+
+**PS:** Find a collection of Pokemon sprites [HERE](https://drive.google.com/drive/folders/17Q_B4Si4YbED5MV72EPd8MaleGLayxXM)
 
 ---
+### Morph Tab
+<img width="250" alt="grafik" src="https://github.com/user-attachments/assets/548919b8-f01f-444b-b314-b0ced7e9e455" />
 
-2. Make sure to respect the naming convention for the images in the folder → "img (number)" | The script increments a counter to loop through the folder
+**Speed** | set the speed for the animation
 
-<img width="600" alt="grafik" src="https://github.com/user-attachments/assets/087c823e-6afe-4e22-acb2-becb0fc705aa" />
+**Delay** | set the time delay till one image morphs to the next
 
----
+**Strength** | set the morph strenght
 
-3. If the image switch is not synced with the morph effect press the key "1" within the TD file to switch order.
-
----
-
-4. Make sure the LFO is actually running when opening the TD file
-
-<img width="600" alt="grafik" src="https://github.com/user-attachments/assets/220a90f6-a97d-443e-af8c-cdb20fffec29" />
-
+**Offset** | set the morph pixel offset
